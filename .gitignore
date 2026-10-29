@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Editor and local credentials
+.vscode/
+.idea/
+.env.*
+!.env.example
